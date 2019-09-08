@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eisiengooh.comeheretodrinkmilk.com/sitemap.xml
